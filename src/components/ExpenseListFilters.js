@@ -53,7 +53,6 @@ export class ExpenseListFilters extends React.Component {
                     numberOfMonths={1}
                     isOutsideRange={() => false}
                 />
-            {console.log('After range picker')}
                 
             </div>
         );
